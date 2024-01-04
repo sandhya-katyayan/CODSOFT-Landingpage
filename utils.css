@@ -1,0 +1,56 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-c
+    {
+background-color: rgb(102, 102, 230);
+    }
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+align-items: center;
+}
+.justify-center{
+justify-content: center;
+}
+.justify-between{
+    justify-content:space-between 
+}
+.justify-center{
+    justify-content: center;
+}
+.font-bold{
+   font-weight: bold;
+   font-size: 1.9rem; 
+}
+.flex-col{
+    flex-direction: column;
+}
+.my-1{
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
+.px-2{
+   padding-left :13px;
+   padding-right: 13px;
+}
+.text-blue{
+    color: rgb(214, 36, 36);
+}
+.btn{
+    padding: 4px 12px;
+    border: 2px solid blue;
+    border-radius: 12px;
+    color: white;
+    background-color: rgb(82, 82, 234);
+    cursor: pointer;
+}
+.justify-around{
+    justify-content: space-around;
+}
