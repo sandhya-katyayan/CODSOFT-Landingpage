@@ -1,0 +1,186 @@
+*{
+	margin:0;
+	padding:0;
+}
+.container{
+	max-width: 80vw;
+	background-color:#7077A1 ;
+}
+.navbar{
+	display: flex;
+	height:67px;
+}
+.navbar li{
+	list-style: none;
+	margin:0 12px;
+}
+.topleft{
+width: 50%;
+padding:12px 0;
+}
+.topright{
+width: 50%;
+padding: 12px 0;
+}
+.section1{
+	height:50vh;
+}
+
+.topright img{
+	width: 400px;
+	height: 280px;
+	margin-top: 25px;
+	padding-left: 50px;
+}
+.topleft img{
+	width:150px;
+	height: 150px;
+}
+.m1left{
+	width: 50%;
+	padding:12px 0;
+	margin-top: 60px;
+}
+.m1right{
+	width: 50%;
+	padding: 12px 0;
+	margin-top: 25px;
+}
+.section2{
+	height:50vh;
+}
+.m1right img{
+	width: 400px;
+	height: 280px;
+	margin-top: 25px;
+	padding-left: 50px;
+}
+.m2left{
+	width: 50%;
+	padding:12px 0;
+	margin-top: 60px;
+}
+.m2right{
+	width: 50%;
+	padding: 12px 0;
+	margin-top: 25px;
+}
+.section3{
+	height:50vh;
+}
+.m2right img{
+	width: 400px;
+	height: 280px;
+	margin-top: 25px;
+	padding-left: 50px;
+}
+
+.m3left{
+	width: 50%;
+	padding:12px 0;
+	margin-top: 60px;
+}
+.m3right{
+	width: 50%;
+	padding: 12px 0;
+	margin-top: 25px;
+}
+.section4{
+	height:50vh;
+}
+.m3right img{
+	width: 400px;
+	height: 280px;
+	margin-top: 25px;
+	padding-left: 50px;
+}
+.m4left{
+	width: 50%;
+	padding:12px 0;
+	margin-top: 60px;
+}
+.m4right{
+	width: 50%;
+	padding: 12px 0;
+	margin-top: 25px;
+}
+.section5{
+	height:50vh;
+}
+.m4right img{
+	width: 400px;
+	height: 280px;
+	margin-top: 25px;
+	padding-left: 50px;
+}
+.m5left{
+	width: 50%;
+	padding:12px 0;
+	margin-top: 60px;
+}
+.m5right{
+	width: 50%;
+	padding: 12px 0;
+	margin-top: 25px;
+}
+.section6{
+	height:50vh;
+}
+.m5right img{
+	width: 400px;
+	height: 280px;
+	margin-top: 25px;
+	padding-left: 50px;
+}
+.section7{
+	height:50vh;
+}
+.section7 img{
+	width: 280px;
+	height: 280px;
+}
+.section8{
+	height:50vh;
+}
+.section8 img{
+	width: 280px;
+	height: 280px;
+}
+#hr1{
+	
+	background-color: black;
+
+}
+.section9{
+    max-width: 80vw;
+    margin:auto;
+   height:auto 
+    
+}
+.email{
+    display: flex;
+    justify-content: space-evenly;
+}
+.insta{
+    display: flex;
+    justify-content: space-evenly; 
+}
+.email img{
+    height:100px;
+    width:100px;
+}
+
+.insta img{
+    height:100px;
+    width:100px;
+}
+.linkedin{
+    display: flex;
+    justify-content: space-evenly;   
+}
+.linkedin img{
+    height:100px;
+    width:100px;  
+}
+
+
